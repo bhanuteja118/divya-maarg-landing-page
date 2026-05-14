@@ -528,6 +528,7 @@ body {
   display: flex; align-items: center; justify-content: center;
   color: var(--gold); background: rgba(28,16,8,0.5);
   border: 1px solid rgba(212,168,75,0.22); text-decoration: none; transition: all 0.25s;
+  cursor: pointer; padding: 0; outline: none;
 }
 .footer-social-btn:hover {
   background: rgba(212,168,75,0.18); color: var(--gold-light);
