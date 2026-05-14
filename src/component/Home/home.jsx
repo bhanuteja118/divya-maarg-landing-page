@@ -391,29 +391,7 @@ export default function Home() {
               <span className="footer-loc">
                 <span className="footer-link-icon">📍</span> Bengaluru, Karnataka, India
               </span>
-            </div> 
-            {/* <div className="footer-social">
-              <button type="button" className="footer-social-btn" aria-label="Instagram">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" width="16" height="16">
-                  <rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="1" fill="currentColor" />
-                </svg>
-              </button>
-              <button type="button" className="footer-social-btn" aria-label="Facebook">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" width="16" height="16">
-                  <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
-                </svg>
-              </button>
-              <button type="button" className="footer-social-btn" aria-label="YouTube">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" width="16" height="16">
-                  <path d="M22 8a5 5 0 0 0-5-5H7a5 5 0 0 0-5 5v8a5 5 0 0 0 5 5h10a5 5 0 0 0 5-5z" /><polygon points="10 9 16 12 10 15" fill="currentColor" />
-                </svg>
-              </button>
-              <button type="button" className="footer-social-btn" aria-label="WhatsApp">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" width="16" height="16">
-                  <path d="M21 12a9 9 0 0 1-13.5 7.8L3 21l1.2-4.5A9 9 0 1 1 21 12z" /><path d="M8 10c0 4 2 6 6 6a3 3 0 0 0 1.7-.5l1.3-.5-1-2-1.5.5c-1 0-2-1-2-2l.5-1.5-2-1-.5 1.3A3 3 0 0 0 8 10z" />
-                </svg>
-              </button>
-            </div> */}
+            </div>
           </div>
           <p className="footer-copyright" data-aos="fade-up" data-aos-duration="300" data-aos-delay="50" data-aos-once="true">
             © 2026 Divya Maarg · Where ancient wisdom meets the modern seeker · Made with 🙏 in India
