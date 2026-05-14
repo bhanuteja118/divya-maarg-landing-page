@@ -391,7 +391,7 @@ export default function Home() {
               <span className="footer-loc">
                 <span className="footer-link-icon">📍</span> Bengaluru, Karnataka, India
               </span>
-            </div>
+            </div> 
             <div className="footer-social">
               <button type="button" className="footer-social-btn" aria-label="Instagram">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" width="16" height="16">
