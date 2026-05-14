@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import './home.css';
 
-const LAUNCH_DATE = new Date('2026-08-15T00:00:00');
+const LAUNCH_DATE = new Date('2026-06-04T10:00:00');
 
 export default function Home() {
   const [countdown, setCountdown] = useState({ days: '00', hours: '00', minutes: '00', seconds: '00' });
