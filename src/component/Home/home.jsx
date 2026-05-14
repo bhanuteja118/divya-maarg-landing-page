@@ -398,7 +398,7 @@ export default function Home() {
           </p>
         </footer>
 
-      </main>
+      </main> 
 
       {dialog.open && (
         <div className="dlg-overlay" onClick={() => setDialog({ open: false, name: '' })}>
